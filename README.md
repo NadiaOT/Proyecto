@@ -29,11 +29,11 @@ Existe una diferencia significativa en el promedio de horas de sueño total entr
 
 # Metodos
 Se aplicó una prueba t de dos muestras independientes para comparar el promedio de horas de sueño total entre dos grupos.
-El análisis estadístico se realizó en EStudio e incluyó
+El análisis estadístico se realizó en RStudio e incluyó
 1. Importación del dataset
 2. Limpieza básica (eliminación de valores faltantes NA)
 3. Creación de una variable categórica de depredación (baja/alta)
-4. Estadística descriptiva (media, desviación estándar y tamaño de muestra por grupo)
+4. Estadística descriptiva: se calcularon por grupo 
 5. Prueba t de Student para dos muestras independientes
 
 # Resultados
