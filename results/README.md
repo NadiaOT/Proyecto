@@ -11,6 +11,7 @@
 #Prueba de t (Welch Two Sample t-test)
 
 data:  total_sleep by grupo
+
 **t** = -3.1725 
 **df** = 38.326 
 **p-value** = 0.002974
