@@ -20,5 +20,5 @@ alternative hypothesis: true difference in means between group Alto and group Ba
  -6.494362 -1.435584
 sample estimates:
 mean in group Alto mean in group Bajo 
-          8.431579          12.396552 
+           -- 8.431579      ---    12.396552 
 
