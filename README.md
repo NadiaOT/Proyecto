@@ -37,6 +37,6 @@ El análisis estadístico se realizó en RStudio e incluyó
 5. Prueba t de Student para dos muestras independientes
 
 # Resultados
--El análisis descriptivo mostró que los mamíferos con alta depredación presentaron un promedio de sueño de 8.43 horas (DE = 4.25; n = 19), mientras que los mamíferos con baja depredación tuvieron un promedio mayor de 12.40 horas (DE = 4.20; n = 29). Estos resultados sugieren que los mamíferos con menor riesgo de depredación tienden a dormir más horas.
--La prueba t de dos muestras independientes mostró diferencias estadísticamente significativas entre mamíferos con alta y baja depredación t=−3.1725, p=0.002974<0.05, por lo que se rechazó la hipótesis nula (H₀) y se aceptó la hipótesis alternativa (H₁), concluyendo que sí existe una diferencia significativa en las horas de sueño total entre ambos grupos de mamíferos.
--El intervalo de confianza al 95 % para la diferencia de medias se encontró entre -6.49 y -1.44 horas, lo que respalda la existencia de diferencias reales entre los grupos analizados.
+*El análisis descriptivo mostró que los mamíferos con alta depredación presentaron un promedio de sueño de 8.43 horas (DE = 4.25; n = 19), mientras que los mamíferos con baja depredación tuvieron un promedio mayor de 12.40 horas (DE = 4.20; n = 29). Estos resultados sugieren que los mamíferos con menor riesgo de depredación tienden a dormir más horas.
+*La prueba t de dos muestras independientes mostró diferencias estadísticamente significativas entre mamíferos con alta y baja depredación t=−3.1725, p=0.002974<0.05, por lo que se rechazó la hipótesis nula (H₀) y se aceptó la hipótesis alternativa (H₁), concluyendo que sí existe una diferencia significativa en las horas de sueño total entre ambos grupos de mamíferos.
+*El intervalo de confianza al 95 % para la diferencia de medias se encontró entre -6.49 y -1.44 horas, lo que respalda la existencia de diferencias reales entre los grupos analizados.
