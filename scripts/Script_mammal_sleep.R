@@ -1,6 +1,6 @@
 ####CARGAR EL DATASET####
 
-mammalsleep <- read.csv("C:/Users/JANINA/Downloads/mammals.csv") #esta direccion va a depender de donde se descargue el archivo csv
+mammalsleep <- read.csv("C:/Users/JANINA/Downloads/mammals.csv")  #esta direccion va a depender de donde se descargue el archivo csv
 #Ver los datos
 View(mammalsleep)
 #ver resumen
@@ -10,12 +10,10 @@ str(mammalsleep)
 
 ####INSTALAR PAQUETES####
 
-install.packages("openintro")
 install.packages("tidyverse")
 #CARGAR LIBRERÍAS de los paquetes instalados
-library(openintro)
 library(tidyverse)
-library(dplyr)
+
 ####LIMPIAR DATOS
 
 #limpiar y seleccionar solamente las variables que necesitas para el análisis estadístico.
