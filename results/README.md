@@ -17,7 +17,7 @@ data:  total_sleep by grupo
 **p-value** = 0.002974
 
 alternative hypothesis: true difference in means between group Alto and group Bajo is not equal to 0
-95 percent confidence interval (CI):
+95% confidence interval (CI):
  -6.494362 -1.435584
 
 sample estimates:
