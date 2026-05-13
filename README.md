@@ -51,5 +51,19 @@ Los análisis estadísticos realizados en RStudio mostró que los mamíferos con
 Por otro lado la prueba t de dos muestras independientes mostró diferencias estadísticamente significativas entre mamíferos con alta y baja depredación t=−3.1725, p=0.002974<0.05, por lo que se rechazó la hipótesis nula (H₀) y se aceptó la hipótesis alternativa (H₁), concluyendo que sí existe una diferencia significativa en las horas de sueño total entre ambos grupos de mamíferos. El intervalo de confianza al 95 % para la diferencia de medias se encontró entre -6.49 y -1.44 horas, lo que respalda la existencia de diferencias reales entre los grupos analizados.
 
 <img width="537" height="240" alt="boxplot_sleep" src="https://github.com/user-attachments/assets/62fb86ce-61a6-4475-875e-778eeceab4f0" />
-Figura 1:
+
+Figura 1:Distribución de las horas de sueño total en mamíferos con alta y baja depredación.
+
+El boxplot muestra la distribución de las horas de sueño total entre mamíferos con alta y baja depredación. Se observa que los mamíferos con baja depredación presentan una tendencia a mayores horas de sueño en comparación con aquellos con alta depredación, además de diferencias en la dispersión de los datos.
+
+<img width="537" height="240" alt="Histogram_sleep" src="https://github.com/user-attachments/assets/14136fcb-4cc5-4d2e-a1f4-17158c709041" />
+
+Figura 2. Distribución de frecuencias de las horas de sueño total según el nivel de depredación en mamíferos.
+
+El histograma representa la frecuencia de las horas de sueño total en mamíferos con alta y baja depredación. Se evidencia una mayor concentración de valores altos de sueño en el grupo con baja depredación, mientras que el grupo con alta depredación presenta una mayor concentración en valores intermedios y bajos.
+
+Los resultados obtenidos sugieren que el nivel de depredación puede influir en los patrones de sueño de los mamíferos. Los mamíferos con baja depredación presentaron un promedio significativamente mayor de horas de sueño en comparación con aquellos con alta depredación. 
+Desde una perspectiva biológica, esto podría explicarse como una adaptación ecológica y conductual. Los mamíferos expuestos a un mayor riesgo de depredación probablemente necesiten permanecer más alertas y vigilantes frente a posibles amenazas, reduciendo así el tiempo dedicado al sueño. En contraste, los mamíferos con menor presión de depredación pueden invertir más tiempo en el descanso y recuperación energética.
+
+
 
