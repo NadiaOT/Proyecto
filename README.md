@@ -1,10 +1,11 @@
 # Efecto de la presión de depredación sobre las horas totales de sueño en mamíferos
 
-## Proyecto colaborativo GitHub + Rstudio: Prueba t en mamíferos (sueño y depredación)
+### Proyecto colaborativo GitHub + Rstudio: Prueba t en mamíferos (sueño y depredación)
 
 ## Autores: Nadia Obando y Rubí García 
 ## Introducción  
 
+El sueño es un proceso vital en los mamíferos, pero su duración puede variar según factores ecológicos como el riesgo de depredación. En ambientes con alta presión de depredadores, los mamíferos podrían dormir menos para mantenerse alerta y reducir la probabilidad de ser cazados. En cambio, en condiciones de baja depredación, podrían dedicar más tiempo al descanso. Este estudio busca determinar si existen diferencias significativas en las horas totales de sueño entre mamíferos expuestos a alta y baja depredación.
 El proyecto utiliza una base de datos real de mamíferos obtenida desde OpenIntro Data Sets para evaluar relaciones ecológicas mediante una prueba estadística t.
 
 ## Pregunta de investigación
