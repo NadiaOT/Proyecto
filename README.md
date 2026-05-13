@@ -15,7 +15,9 @@ El dataset contiene información biológica de diferentes especies de mamíferos
 
 ## Variables utilizadas
 total_sleep: horas de sueño total (variable numérica)
+
 predation: variable asociada al riesgo o nivel de depredación (variable numérica)
+
 Posteriormente, se creó una variable categórica llamada `grupo` con dos niveles::
   - Baja- riesgo de depredación
   - Alta- riesgo de depredación
