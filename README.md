@@ -56,6 +56,7 @@ Figura 1:Distribución de las horas de sueño total en mamíferos con alta y baj
 
 El boxplot muestra la distribución de las horas de sueño total entre mamíferos con alta y baja depredación. Se observa que los mamíferos con baja depredación presentan una tendencia a mayores horas de sueño en comparación con aquellos con alta depredación, además de diferencias en la dispersión de los datos.
 
+
 <img width="537" height="240" alt="Histogram_sleep" src="https://github.com/user-attachments/assets/14136fcb-4cc5-4d2e-a1f4-17158c709041" />
 
 Figura 2. Distribución de frecuencias de las horas de sueño total según el nivel de depredación en mamíferos.
