@@ -1,6 +1,6 @@
 ####CARGAR EL DATASET####
 
-mammalsleep <- read.csv("C:/Users/JANINA/Downloads/mammals.csv")
+mammalsleep <- read.csv("C:/Users/JANINA/Downloads/mammals.csv") #esta direccion va a depender de donde se descargue el archivo csv
 #Ver los datos
 View(mammalsleep)
 #ver resumen
