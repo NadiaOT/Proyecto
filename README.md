@@ -1,5 +1,5 @@
 # Proyecto colaborativo GitHub + Rstudio: Prueba t en mamíferos (sueño y depredación)
-
+# Nombres: Nadia Obando y Rubí García 
 # Introducción  
 El proyecto utiliza una base de datos real de mamíferos obtenida desde OpenIntro Data Sets para evaluar relaciones ecológicas mediante una prueba estadística t.
 
