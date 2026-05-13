@@ -85,14 +85,6 @@ t.test(total_sleep ~ grupo,
        data = sleep_groups)
 #el p-value = 0.002974 por ende rechaza H0 
 
-#### CORRELACIÓN ####
-
-#Correlación entre peso corporal y sueño
-cor.test(
-  mammalsleep$body_wt,
-  mammalsleep$total_sleep,
-  use = "complete.obs"
-)
    
 #### HISTOGRAMA ####
 
