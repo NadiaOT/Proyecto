@@ -9,7 +9,7 @@ El sueño es un proceso vital en los mamíferos, pero su duración puede variar 
 El proyecto utiliza una base de datos real de mamíferos obtenida desde OpenIntro Data Sets para evaluar relaciones ecológicas mediante una prueba estadística t.
 
 ## Pregunta de investigación
-¿Existen diferencias significativas en las horas totales de sueño entre los mamíferos que viven en ambientes con alta y baja depredación?
+¿Existen diferencias significativas en las horas totales de sueño entre los mamíferos expuestos a ambientes con alta y baja depredación?
 
 ## Datos
 La base de datos utilizada proviene de OpenIntro Data Sets:
