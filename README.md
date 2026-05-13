@@ -14,12 +14,12 @@ La base de datos utilizada proviene de OpenIntro Data Sets:
 El dataset contiene información biológica de diferentes especies de mamíferos, incluyendo variables relacionadas con sueño y depredación.
 
 # Variables utilizadas
-sueño total (sleep_total)
-depredación (predation): variable numérica asociada al nivel de depredación
-Grupo de depredación- variable categórica creada para el análisis, con dos niveles:
-  - Baja depredación
-  - Alta depredación
-Para construir los grupos, se utilizó la mediana de la variable de depredación como punto de corte.
+total_sleep: horas de sueño total (variable numérica)
+predation: variable asociada al riesgo o nivel de depredación (variable numérica)
+Posteriormente, se creó una variable categórica llamada `grupo` con dos niveles::
+  - Baja- riesgo de depredación
+  - Alta- riesgo de depredación
+La clasificación se realizó usando un punto de corte (por ejemplo la mediana del riesgo de depredación), para dividir a las especies en dos grupos comparables.
 
 # Hipótesis nula (H0)
 No existe diferencia significativa en el promedio de horas de sueño total entre mamíferos con baja y alta depredación.
