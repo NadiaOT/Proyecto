@@ -1,13 +1,13 @@
 #Promedio de horas de sueño
 
 
-grupo promedio desviacion     n
-  <chr>    <dbl>      <dbl> <int>
-1 Alto      8.43       4.25    19
-2 Bajo     12.4        4.20    29
+grupo promedio desviación     n
+  <chr>   - <dbl>    - - <dbl> -   -  <int>
+1 **Alto**      8.43     -  4.25    19
+2 **Bajo**     12.4        4.20    29
 
 
-#PrUeba de T
+#Prueba de t
 
 
 Welch Two Sample t-test
