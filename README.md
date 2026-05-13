@@ -2,7 +2,7 @@
 
 ### Proyecto colaborativo GitHub + Rstudio: Prueba t en mamíferos (sueño y depredación)
 
-### Autores: Nadia Obando y Rubí García 
+### Autores: Nadia Obando; Rubí García y Gaby Jimenez 
 ## Introducción  
 
 El sueño es un proceso vital en los mamíferos, pero su duración puede variar según factores ecológicos como el riesgo de depredación. En ambientes con alta presión de depredadores, los mamíferos podrían dormir menos para mantenerse alerta y reducir la probabilidad de ser cazados. En cambio, en condiciones de baja depredación, podrían dedicar más tiempo al descanso. Este estudio busca determinar si existen diferencias significativas en las horas totales de sueño entre mamíferos expuestos a alta y baja depredación.
