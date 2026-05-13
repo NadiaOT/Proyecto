@@ -1,8 +1,9 @@
 # Proyecto
-Hipótesis nula (H₀)
 
-No existe diferencia significativa en las horas promedio de sueño entre mamíferos carnívoros y herbívoros.
+H₀
 
-Hipótesis alternativa (H₁)
+No existe diferencia significativa en las horas de sueño entre mamíferos con bajo y alto riesgo de depredación.
 
-Existe una diferencia significativa en las horas promedio de sueño entre mamíferos carnívoros y herbívoros.
+H₁
+
+Sí existe diferencia significativa.
