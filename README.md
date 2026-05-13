@@ -1,9 +1,9 @@
 # Proyecto
 
-H₀
+Hipótesis nula (H₀)
 
-No existe diferencia significativa en las horas de sueño entre mamíferos con bajo y alto riesgo de depredación.
+No existe diferencia significativa en las horas promedio de sueño entre mamíferos con bajo y alto riesgo de depredación.
 
-H₁
+Hipótesis alternativa (H₁)
 
-Sí existe diferencia significativa.
+Existe una diferencia significativa en las horas promedio de sueño entre mamíferos con bajo y alto riesgo de depredación.
