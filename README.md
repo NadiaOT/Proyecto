@@ -33,13 +33,14 @@ Se calcularon estadísticas descriptivas por grupo (Bajo y Alto):
 - tamaño de muestra (n)
 - promedio de horas de sueño (mean)
 - desviación estándar (sd)
+
 Estas estadísticas permitieron resumir la tendencia central y variabilidad del sueño en cada grupo.
 
 ### Visualización
 Se generaron gráficos para explorar los datos:
 
-- **Boxplot** para comparar la distribución de horas de sueño entre grupos.
-- **Histogramas** separados por grupo para observar la forma de la distribución.
+- **Boxplot** - para comparar la distribución de horas de sueño entre grupos.
+- **Histogramas** - separados por grupo para observar la forma de la distribución.
 
 ### Prueba estadística (t-test)
 Para evaluar si existían diferencias significativas en las horas de sueño entre los dos grupos, se aplicó una **prueba t de Student para dos muestras independientes**, usando la función t.test() en R.
