@@ -15,7 +15,7 @@ install.packages("tidyverse")
 #CARGAR LIBRERÍAS de los paquetes instalados
 library(openintro)
 library(tidyverse)
-
+library(dplyr)
 ####LIMPIAR DATOS
 
 #limpiar y seleccionar solamente las variables que necesitas para el análisis estadístico.
