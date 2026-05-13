@@ -20,6 +20,10 @@ library(tidyverse)
 sleep_data <- mammalsleep %>%
   select(predation, total_sleep) %>%
   drop_na()
+
+#visualizar datos NA 
+sum(is.na(sleep_data))
+
 # Select sirve para sellecionar las variables con las que voy a trabajar
 #variable categórica (predation) y variable numérica (total_sleep)
 summary(sleep_data) #para verificar que si funciono
