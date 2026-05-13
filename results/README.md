@@ -1,7 +1,7 @@
 #Promedio de horas de sueño
 
 
-| Grupo | n  | Promedio (h) | Desviación estándar |
+| Grupo | n  | Promedio   | Desviación estándar |
 |------|----|--------------|---------------------|
 | Alto | 19 | 8.43         | 4.25                |
 | Bajo | 29 | 12.40        | 4.20                |
